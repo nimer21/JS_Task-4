@@ -1,0 +1,1 @@
+Fetch is a native JS interface for HTTP requests supported by modern browsers. Axios is a more full-featured third-party library requiring installation. Axios provides richer features like automatic JSON parsing, error handling, interceptors.
